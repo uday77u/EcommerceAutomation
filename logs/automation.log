@@ -1,0 +1,11 @@
+00:06:56.484 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - 🛑 Browser closed successfully
+00:23:57.231 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - 🌐 Launching [chrome] and navigating to: https://www.shoppersstack.com
+00:24:01.396 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - start logging ***testAdmin_LoginWithWrongCredentials***
+00:24:01.397 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - Step 1: Clicking on the 'Login' button in HomePage
+00:24:16.059 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - Step 2: Verify signin Page is displayed
+00:24:16.352 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - Step 3: Clicking on the 'Admin Login'
+00:24:18.206 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - Step 4: Enter Email field
+00:24:20.011 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - Step 5: Enter Password field
+00:24:21.171 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - Step 6: Click on the 'Login' button
+00:24:22.006 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - Step 7: Verify the error message
+00:24:25.674 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - 🛑 Browser closed successfully

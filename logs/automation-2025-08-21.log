@@ -1,0 +1,43 @@
+15:00:59.464 [TestNG-tests-1] INFO  uiTests.TC001_Admin_adminSmokeUITest - 🌐 Launching browser [chrome] and navigating to: https://www.shoppersstack.com
+15:01:11.104 [TestNG-tests-1] INFO  uiTests.TC001_Admin_adminSmokeUITest - *** Starting Admin Login Smoke Test ***
+15:01:11.105 [TestNG-tests-1] INFO  uiTests.TC001_Admin_adminSmokeUITest - Step 1: Click on Login button
+15:01:25.238 [TestNG-tests-1] INFO  uiTests.TC001_Admin_adminSmokeUITest - Step 2: Verify navigation to Login Page
+15:01:25.450 [TestNG-tests-1] INFO  uiTests.TC001_Admin_adminSmokeUITest - Step 3: Verify Shopper, Merchant, and Admin login options are present
+15:01:27.074 [TestNG-tests-1] INFO  uiTests.TC001_Admin_adminSmokeUITest - Step 4: Verify login page buttons and links are enabled
+15:01:39.340 [TestNG-tests-1] INFO  uiTests.TC001_Admin_adminSmokeUITest - 🛑 Browser closed successfully
+15:06:39.404 [TestNG-tests-1] INFO  uiTests.TC001_Admin_adminSmokeUITest - 🌐 Launching browser [chrome] and navigating to: https://www.shoppersstack.com
+15:06:46.210 [TestNG-tests-1] INFO  uiTests.TC001_Admin_adminSmokeUITest - *** Starting Admin Login Smoke Test ***
+15:06:46.210 [TestNG-tests-1] INFO  uiTests.TC001_Admin_adminSmokeUITest - Step 1: Click on Login button
+15:06:57.869 [TestNG-tests-1] INFO  uiTests.TC001_Admin_adminSmokeUITest - Step 2: Verify navigation to Login Page
+15:06:57.956 [TestNG-tests-1] INFO  uiTests.TC001_Admin_adminSmokeUITest - Step 3: Verify Shopper, Merchant, and Admin login options are present
+15:06:58.338 [TestNG-tests-1] INFO  uiTests.TC001_Admin_adminSmokeUITest - Step 4: Verify login page buttons and links are enabled
+15:07:04.901 [TestNG-tests-1] INFO  uiTests.TC001_Admin_adminSmokeUITest - 🛑 Browser closed successfully
+16:20:42.095 [main] INFO  uiTests.TC001_Admin_adminSmokeUITest - 🌐 Launching browser [chrome] and navigating to: https://www.shoppersstack.com
+16:21:04.028 [main] INFO  uiTests.TC001_Admin_adminSmokeUITest - *** Starting Admin Login Smoke Test ***
+16:21:04.029 [main] INFO  uiTests.TC001_Admin_adminSmokeUITest - Step 1: Click on Login button
+16:21:23.456 [main] INFO  uiTests.TC001_Admin_adminSmokeUITest - Step 2: Verify navigation to Login Page
+16:21:23.995 [main] INFO  uiTests.TC001_Admin_adminSmokeUITest - Step 3: Verify Shopper, Merchant, and Admin login options are present
+16:21:25.394 [main] INFO  uiTests.TC001_Admin_adminSmokeUITest - Step 4: Verify login page buttons and links are enabled
+16:21:40.851 [main] INFO  uiTests.TC001_Admin_adminSmokeUITest - 🛑 Browser closed successfully
+16:25:30.238 [main] INFO  uiTests.TC001_Admin_adminSmokeUITest - 🌐 Launching browser [firefox] and navigating to: https://www.shoppersstack.com
+16:27:13.239 [main] INFO  uiTests.TC001_Admin_adminSmokeUITest - *** Starting Admin Login Smoke Test ***
+16:27:13.239 [main] INFO  uiTests.TC001_Admin_adminSmokeUITest - Step 1: Click on Login button
+16:28:06.406 [main] INFO  uiTests.TC001_Admin_adminSmokeUITest - 🛑 Browser closed successfully
+22:14:24.981 [main] INFO  uiTests.TC001_Admin_adminSmokeUITest - 🌐 Launching browser [firefox] and navigating to: https://www.shoppersstack.com
+22:15:16.902 [main] INFO  uiTests.TC001_Admin_adminSmokeUITest - *** Starting Admin Login Smoke Test ***
+22:15:16.909 [main] INFO  uiTests.TC001_Admin_adminSmokeUITest - Step 1: Click on Login button
+22:15:55.088 [main] INFO  uiTests.TC001_Admin_adminSmokeUITest - 🛑 Browser closed successfully
+22:26:57.757 [main] INFO  uiTests.TC001_Admin_adminSmokeUITest - 🌐 Launching [chrome] and navigating to: https://www.shoppersstack.com
+22:27:03.033 [main] INFO  uiTests.TC001_Admin_adminSmokeUITest - *** Starting Admin Login Smoke Test ***
+22:27:03.034 [main] INFO  uiTests.TC001_Admin_adminSmokeUITest - Step 1: Click on Login button
+22:27:27.370 [main] INFO  uiTests.TC001_Admin_adminSmokeUITest - 🛑 Browser closed successfully
+22:29:37.280 [main] INFO  uiTests.TC001_Admin_adminSmokeUITest - 🌐 Launching [chrome] and navigating to: https://www.shoppersstack.com
+22:29:42.981 [main] INFO  uiTests.TC001_Admin_adminSmokeUITest - *** Starting Admin Login Smoke Test ***
+22:29:42.983 [main] INFO  uiTests.TC001_Admin_adminSmokeUITest - Step 1: Click on Login button
+22:30:01.814 [main] INFO  uiTests.TC001_Admin_adminSmokeUITest - Step 2: Verify navigation to Login Page
+22:30:12.243 [main] INFO  uiTests.TC001_Admin_adminSmokeUITest - Step 3: Verify Shopper, Merchant, and Admin login options are present
+22:30:13.052 [main] INFO  uiTests.TC001_Admin_adminSmokeUITest - Step 4: Verify login page buttons and links are enabled
+22:30:16.952 [main] INFO  uiTests.TC001_Admin_adminSmokeUITest - 🛑 Browser closed successfully
+23:39:32.841 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - 🌐 Launching [chrome] and navigating to: https://www.shoppersstack.com
+23:39:39.793 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - start logging ***testAdmin_LoginWithWrongCredentials***
+23:39:39.794 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - Step 1: Clicking on the 'Login' button in HomePage
