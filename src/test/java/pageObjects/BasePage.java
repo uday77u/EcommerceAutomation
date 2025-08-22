@@ -3,6 +3,7 @@ package pageObjects;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.PageFactory;
+
 import utilities.WaitUtils;
 
 public class BasePage {
@@ -27,6 +28,7 @@ public class BasePage {
 
     // --- Common Actions ---
     protected void click(WebElement element, int timeout) {
+    	waitForElementVisible(element, timeout);
         waitForElementClickable(element, timeout).click();
     }
 

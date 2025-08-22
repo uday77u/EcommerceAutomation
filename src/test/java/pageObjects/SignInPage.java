@@ -36,6 +36,15 @@ public class SignInPage extends BasePage {
     @FindBy(css = "#Password")
     private WebElement PasswordTxtFld;
     
+    @FindBy(xpath = "//span[text()='Create Account']")
+    private WebElement CreateAccountBtn;
+    
+    
+    
+    
+    
+    
+    
  // --- Toast / Error message ---
     @FindBy(xpath = "//div[contains(@class,'Toastify')]")
     private WebElement toastMessage;
@@ -51,6 +60,9 @@ public class SignInPage extends BasePage {
         return isDisplayed(shopperLogin, 10);
     }
 
+    public boolean isAtSignUpPage() {
+        return driver.getCurrentUrl().contains("signup");
+    }
     public boolean isMerchantLoginDisplayed() {
         return isDisplayed(merchantLogin, 10);
     }
@@ -98,6 +110,17 @@ public class SignInPage extends BasePage {
     	PasswordTxtFld.sendKeys(password);
 	}
     
+    public void clickCreateAccountBtn() {
+        click(CreateAccountBtn, 10);
+    }
+    
+    
+    
+    
+    
+    
+    
+    
     // ✅ Error message check (contains)
     public boolean isErrorMessageContaining(String expectedText) {
         String msg = WaitUtils.waitForElementVisible(driver, toastMessage, 10).getText();
@@ -109,4 +132,7 @@ public class SignInPage extends BasePage {
         String msg = WaitUtils.waitForElementVisible(driver, toastMessage, 10).getText();
         return msg.equals(expectedText);
     }
+    
+    
+    
 }

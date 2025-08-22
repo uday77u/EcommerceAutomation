@@ -54,7 +54,7 @@ public class DriverFactory {
         }
 
         // ✅ Apply implicit wait
-        int implicitWait = Integer.parseInt(ConfigReader.getProperty("implicitWait", "0"));
+        int implicitWait = Integer.parseInt(ConfigReader.getProperty("implicitWait", "10"));
         webDriver.manage().timeouts().implicitlyWait(Duration.ofSeconds(implicitWait));
 
         driver.set(webDriver);

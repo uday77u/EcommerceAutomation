@@ -10,7 +10,7 @@ import org.testng.annotations.Parameters;
 import utilities.ConfigReader;
 import utilities.DriverFactory;
 
-public abstract class BaseUITest {
+public abstract class BaseUITest implements FrameWorkConstant{
 
     protected WebDriver driver;
     protected Logger logger;
@@ -30,6 +30,7 @@ public abstract class BaseUITest {
         String baseUrl = ConfigReader.getProperty("uiBaseUrl");
         logger.info("🌐 Launching [{}] and navigating to: {}", browser, baseUrl);
         driver.get(baseUrl);
+        
     }
 
     @AfterClass

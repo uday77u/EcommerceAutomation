@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="uiTests.TC002_Admin_LoginWithWrongCredentials">
+      <class name="uiTests.TC008_Admin_createAdminAccount">
         <methods>
           <include name="tearDown"/>
+          <include name="testAdmin_createAdminAccount"/>
           <include name="setUp"/>
-          <include name="testAdmin_LoginWithWrongCredentials"/>
         </methods>
-      </class> <!-- uiTests.TC002_Admin_LoginWithWrongCredentials -->
+      </class> <!-- uiTests.TC008_Admin_createAdminAccount -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

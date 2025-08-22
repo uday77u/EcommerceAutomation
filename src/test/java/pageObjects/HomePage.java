@@ -14,6 +14,6 @@ public class HomePage extends BasePage {
     }
 
     public void clickLoginBtn() {
-        click(loginBtn, 15);
+        click(loginBtn, 60);
     }
 }

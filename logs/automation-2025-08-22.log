@@ -1,42 +1,52 @@
-23:40:02.560 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - Step 2: Verify signin Page is displayed
-23:40:04.216 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - Step 3: Clicking on the 'Admin Login'
-23:40:06.086 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - Step 4: Enter Email field
-23:40:08.672 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - Step 5: Enter Password field
-23:40:09.858 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - Step 6: Click on the 'Login' button
-23:40:10.382 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - Step 7: Verify the error message
-23:40:29.803 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - 🛑 Browser closed successfully
-23:48:34.181 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - 🌐 Launching [chrome] and navigating to: https://www.shoppersstack.com
-23:48:50.175 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - start logging ***testAdmin_LoginWithWrongCredentials***
-23:48:50.176 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - Step 1: Clicking on the 'Login' button in HomePage
-23:49:33.158 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - 🛑 Browser closed successfully
-23:50:14.174 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - 🌐 Launching [chrome] and navigating to: https://www.shoppersstack.com
-23:50:22.512 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - start logging ***testAdmin_LoginWithWrongCredentials***
-23:50:22.513 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - Step 1: Clicking on the 'Login' button in HomePage
-23:50:34.395 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - Step 2: Verify signin Page is displayed
-23:50:34.543 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - Step 3: Clicking on the 'Admin Login'
-23:50:35.186 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - Step 4: Enter Email field
-23:50:36.260 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - Step 5: Enter Password field
-23:50:36.945 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - Step 6: Click on the 'Login' button
-23:50:37.415 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - Step 7: Verify the error message
-23:50:38.580 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - 🛑 Browser closed successfully
-23:52:21.332 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - 🌐 Launching [chrome] and navigating to: https://www.shoppersstack.com
-23:52:39.388 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - start logging ***testAdmin_LoginWithWrongCredentials***
-23:52:39.389 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - Step 1: Clicking on the 'Login' button in HomePage
-23:53:01.702 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - 🛑 Browser closed successfully
-23:53:50.825 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - 🌐 Launching [chrome] and navigating to: https://www.shoppersstack.com
-23:54:02.676 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - start logging ***testAdmin_LoginWithWrongCredentials***
-23:54:02.677 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - Step 1: Clicking on the 'Login' button in HomePage
-23:54:33.536 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - 🛑 Browser closed successfully
-23:56:12.593 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - 🌐 Launching [chrome] and navigating to: https://www.shoppersstack.com
-23:56:28.324 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - start logging ***testAdmin_LoginWithWrongCredentials***
-23:56:28.326 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - Step 1: Clicking on the 'Login' button in HomePage
-23:56:51.080 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - 🛑 Browser closed successfully
-00:06:30.317 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - 🌐 Launching [chrome] and navigating to: https://www.shoppersstack.com
-00:06:36.897 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - start logging ***testAdmin_LoginWithWrongCredentials***
-00:06:36.898 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - Step 1: Clicking on the 'Login' button in HomePage
-00:06:49.841 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - Step 2: Verify signin Page is displayed
-00:06:50.367 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - Step 3: Clicking on the 'Admin Login'
-00:06:51.661 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - Step 4: Enter Email field
-00:06:53.297 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - Step 5: Enter Password field
-00:06:54.113 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - Step 6: Click on the 'Login' button
-00:06:54.665 [main] INFO  uiTests.TC002_Admin_LoginWithWrongCredentials - Step 7: Verify the error message
+23:16:49.669 [main] INFO  uiTests.TC008_Admin_createAdminAccount - 🛑 Browser closed successfully
+23:19:51.944 [main] INFO  uiTests.TC008_Admin_createAdminAccount - 🌐 Launching [chrome] and navigating to: https://www.shoppersstack.com
+23:20:01.081 [main] INFO  uiTests.TC008_Admin_createAdminAccount - start logging ***testAdmin_createAdminAccount***
+23:20:01.083 [main] INFO  uiTests.TC008_Admin_createAdminAccount - Step 1: Clicking on the 'Login' button in HomePage
+23:21:04.126 [main] INFO  uiTests.TC008_Admin_createAdminAccount - Step 2: Verify signin Page is displayed
+23:21:04.269 [main] INFO  uiTests.TC008_Admin_createAdminAccount - Step 3: Clicking on the 'Admin Login'
+23:21:05.240 [main] INFO  uiTests.TC008_Admin_createAdminAccount - Step 4: Click on 'Create Account' button. 
+23:21:06.277 [main] INFO  uiTests.TC008_Admin_createAdminAccount -  Verifying signup Page is displayed
+23:21:06.468 [main] INFO  uiTests.TC008_Admin_createAdminAccount - Step 5: Enter 'First Name' and 'Last Name' fields.
+23:21:08.407 [main] INFO  uiTests.TC008_Admin_createAdminAccount - Step 6: Click on the 'Male' radio button
+23:21:08.774 [main] INFO  uiTests.TC008_Admin_createAdminAccount - Step 7: Enter 'Phone Number' and 'Email Address' fields
+23:21:10.244 [main] INFO  uiTests.TC008_Admin_createAdminAccount - Step 8: Enter 'Password' and 'Confirm Password' fields
+23:21:11.691 [main] INFO  uiTests.TC008_Admin_createAdminAccount - Step 9: Select 'Country' 'State' and 'City' in dropdowns
+23:21:29.395 [main] ERROR uiTests.TC008_Admin_createAdminAccount - ❌ Unexpected exception in testAdmin_createAdminAccount: Cannot locate option with text: Amaritsar
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: driver.version: unknown
+org.openqa.selenium.NoSuchElementException: Cannot locate option with text: Amaritsar
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.Select.selectByContainsVisibleText(Select.java:236) ~[selenium-support-4.35.0.jar:?]
+	at pageObjects.SignUpPage.selectCityDropDown(SignUpPage.java:96) ~[test-classes/:?]
+	at uiTests.TC008_Admin_createAdminAccount.testAdmin_createAdminAccount(TC008_Admin_createAdminAccount.java:57) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]

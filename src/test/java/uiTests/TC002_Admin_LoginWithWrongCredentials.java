@@ -12,7 +12,8 @@ public class TC002_Admin_LoginWithWrongCredentials extends BaseUITest{
 
 	@Test
 	public void testAdmin_LoginWithWrongCredentials() {
-		
+		try {
+			
 		HomePage homePage=new HomePage(driver);
 		SignInPage signInPage=new SignInPage(driver);
 		
@@ -43,5 +44,14 @@ public class TC002_Admin_LoginWithWrongCredentials extends BaseUITest{
 	            "❌ Error message containing 'wrong' was not displayed.");
 
 	    assertTrue(signInPage.isErrorMessageEquals("Given user ID or password is wrong"),
-	            "❌ Exact error message did not match.");	}
+	            "❌ Exact error message did not match.");	
+	}
+	catch (AssertionError ae) {
+        logger.error("❌ Assertion failed in testAdmin_LoginWithWrongCredentials: " + ae.getMessage(), ae);
+        throw ae; // rethrow so TestNG marks test as failed
+    } catch (Exception e) {
+        logger.error("❌ Unexpected exception in testAdmin_LoginWithWrongCredentials: " + e.getMessage(), e);
+        throw e; // rethrow so TestNG marks test as failed
+    }
+}
 }
